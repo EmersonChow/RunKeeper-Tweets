@@ -1,4 +1,5 @@
-Project for in4matx 133 - user interaction software. Written in javascript and typescript. html was default given 
+Project for in4matx 133 - user interaction software. Written in javascript and typescript. 
+Base code found: https://github.com/uci-inf-133/a2-runkeeper-tweet-report-in-javascript-and-typescript-EmersonChow
 
 Details - In4matx 133 -
 --Readme document for *Emerson Chow*--
