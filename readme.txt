@@ -1,3 +1,6 @@
+Project for in4matx 133 - user interaction software. Written in javascript and typescript. html was default given 
+
+Details - In4matx 133 -
 --Readme document for *Emerson Chow*--
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
